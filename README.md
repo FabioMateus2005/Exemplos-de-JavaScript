@@ -1,5 +1,7 @@
 # Exemplo de Javascript
 
+Olá aqui são Mini exercicios de JavaScript para Praticar no Estudo
+
 Repositório com exemplos práticos de JavaScript para estudo e referência.
 
 ## Estrutura do projeto
